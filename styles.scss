@@ -1,0 +1,14 @@
+@mixin border-radius($radius) {
+    border-radius: $radius;
+  }
+  
+  .rounded {
+    @include border-radius(15px);
+  }
+  
+  .example-box {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    margin: 20px;
+  }

@@ -1,0 +1,10 @@
+.rounded {
+  border-radius: 15px;
+}
+
+.example-box {
+  width: 100px;
+  height: 100px;
+  background-color: lightblue;
+  margin: 20px;
+}/*# sourceMappingURL=styles.css.map */
